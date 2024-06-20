@@ -1,5 +1,4 @@
 
 print("Curso prueba2")
 print("Curso prueba2")
-print("Curso prueba2")
-print("Version 2.0")
+print("Curso pruebaV2")
